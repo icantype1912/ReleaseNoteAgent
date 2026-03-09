@@ -1,0 +1,10 @@
+gitpython
+requests
+pyyaml
+packaging
+langgraph
+langchain
+openai
+langchain-openai
+python-dotenv
+langchain-groq
